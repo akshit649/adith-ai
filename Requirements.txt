@@ -1,0 +1,17 @@
+python-dotenv  #sensitive info store  krne ke liye (jaise API keys, database credential etc.)
+groq #generalised representation of quantized operators  ultra-fast AI model processing provide krti h'
+AppOpener #AppOpener ek Python package hai jo Windowspe applications ko open karne ke kaam aata hai
+pywhatkit #automation tasks ko easy banati hai, jaise ki WhatsApp messages bhejna, Google search karna, YouTube videos chalana
+bs4  #BeautifulSoup 4 hai jo web scraping ke liye use hoti hai.
+pillow # Isse hum images ko open, edit, resize, crop, rotate, convert, aur filter kar sakte hain
+rich # jo terminal me colorful text, tables, progress bars, logging aur formatting ke liye use hoti hai
+requests #APIs call kar sakte hain, webpages ka HTML content le sakte hain aur HTTP requests (GET, POST, PUT, DELETE) bhej sakte hain.
+keyboard #jo keyboard events ko capture karne ke liye use hoti hai
+cohere #ek natural language processing (NLP) library hai jo machine learning models ko access karne ke liye use hoti hai
+googlesearch-python # Google search results ko programmatically fetch karne ke liye
+selenium #Selenium ek powerful tool hai jo web automation ke liye use hota hai. Yeh  web browsers ko automate karne ke liye use kiya jata ha
+mtranslate #easily apne text ko ek language se dusri language mein translate karne ke liye Google translate API pe kaam krti h
+pygame #game development aur multimedia applications banane ke liye use hoti hai
+edge-tts # library hai jo Microsoft Edge's Text-to-Speech (TTS) engine ka use karke text ko speech mein convert karne ke liye
+PyQt5 #Gui banane ke liye use krte h
+webdriver-manager  #jo Selenium WebDriver ko automate karne ke liye use hoti hai
